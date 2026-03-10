@@ -1,0 +1,6 @@
+study_id: oncology-minimal
+metadata:
+  phase: 1
+cohorts:
+  - id: C1
+    arm: placebo
